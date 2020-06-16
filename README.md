@@ -2,6 +2,7 @@
 typescriptでwebpackでpixijsをやるぞ
 
 ターミナル
+
 npm i -D webpack webpack-cli typescript ts-loader
 
 npm install @types/pixi.js --save-dev
